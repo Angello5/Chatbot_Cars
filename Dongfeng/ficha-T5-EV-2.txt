@@ -1,0 +1,259 @@
+Alia.
+De of Si *
+*) on ™ Es Ly a B y _—
+| ' 'rsev v
+JDONGFENG he “i —— /
+MOTOR PERU ee LS
+a
+VERSION
+ee
+Dimension (largo/ancho/alto) (mm) 4570x1860x 1680
+Distancia entre ejes (mm) 2715
+Distancia minima al suelo (mm) 155
+Modelo de motor TZ180XSX5G
+Tipo de motor Motor sincrono de imanes permanentes
+Tipo de enfriamiento Refrigeracion liquida
+Potencia maxima (hp) 160
+Potencia nominal (hp) 67
+Velocidad maxima del motor (rpm) 15500
+Par maximo (N.m) 240
+Tipo dinamico Eléctrico Puro
+Relacion de reduccion principal 12.57
+Sistema de recuperacion de energia de frenado Si
+Sistema de recuperacion de energia multietapa Si
+ee
+Autonomia de crucero eléctrica pura (CLTC) 410km
+Materiales de la bateria de energia Fosfato de hierro y litio
+Tipo de enfriamiento Refrigeracion liquida
+Modo calefaccion Calor Liquido
+Dispositivo de calentamiento de bateria Si
+Tension nominal de la bateria (V) 367
+Capacidad de la bateria (kwh) 49.27
+ee
+Potencia del cargador del vehiculo 6.6kw
+Interfaz de carga lenta (CA) Si
+Interfaz de carga rapida (DC) Si
+Lampara indicadora de estado de carga Si
+Tiempo de carga lento (potencia del medidor de 0% a 100%) 8.5h
+Tiempo de carga rapida de CC (SOC: 30% ~ 80%, 30min
+temperatura normal 25 °C, potencia de carga > 80kwh)
+ee
+Tipo de transmision Relacion de transmision fija
+Numero de cambios R/N/D/P
+ee
+Tipo de suspension delantera Suspension independiente McPherson + barra estabilizadora
+Tipo de suspension trasera Viga de torsion
+Mecanismo de direccion Direccion eléctrica
+Freno de rueda delantera Tipo de disco ventilado
+Freno de rueda trasera Tipo de disco
+Tipo de freno de estacionamiento Aparcamiento electronico
+Tipo de frenado de refuerzo eléctrico Frenado asistido electronico
+Tamano de neumaticos 225/65 R17
+ee
+Airbag del asiento del conductor Si
+Airbag copiloto Si
+El cinturon de seguridad principal del conductor no esta Sj
+equipado con alarma sonora ni luz indicadora.
+Sistema de seguridad para peatones (VSP) de advertencia Sj
+de vehiculos de proximidad
+Cerradura de control central interior Si
+Bloqueo automatico Si
+Desbloqueo automatico después de una colision Si
+Fi /dongfeng.pe
+- Dimensiones
+e —- MN
+nN _. __ ~
+"2 fy | ffs) airy
+ye AD) xii _ | ce A} Ss = \
+eet ee
+\Se emaes c =03] 2 BD Ne »
+J. Pe hm or ff
+J t8e0 ow 715 NLL
+; CO _. 4570 SO
+La informacién mostrada puede variar sin previo aviso. El fabricante se reserva el derecho de modificar sus modelos,
+caracteristicas y accesorios sin previo aviso. Disponibilidad e items de acuerdo con las versiones indicadas. Imagenes
+referenciales. Especificaciones y otros consultar con las red de distribuidores autorizados Dongfeng a nivel nacional
+
+Ali~
+© | ” ° _~ -
+") aN ~ PSS Li = § y _—
+| ll | 7s5ev \
+_ a va |
+DONGFENG )y—— 9 ie
+MOTOR PERU SEE
+a
+VERSION
+a
+Cerradura de puerta de seguridad para ninos Si
+Frenos antibloqueo ABS Si
+Distribucion de la fuerza de frenado (EBD/CBD) Si
+Prioridad de frenado Si
+Asistencia de frenado (HBA/EBA/BA) Si
+Control de traccion (ASR/TCS/TRC) Si
+Control de estabilidad de la carroceria (ESP/DSC/VSC) Si
+Control de asistencia de arranque en pendiente (HAC) Si
+Aparcamiento automatico Si
+Monitoreo de la presion de los neumaticos (TPMS) Si
+Retenedor de asiento infantil ISO-FIX Si
+Lampara de freno montada en alto Si
+Radar de marcha atras Si
+Imagen invertida Si
+Control de descenso de pendientes (HDC) Si
+Crucero de velocidad constante Si
+Material del volante PU
+Volante multifuncion Si
+Control de sonido del volante Si
+Control de instrumentos en el volante Si
+Control Bluetooth del volante Si
+Ajuste del volante hacia arriba y hacia abajo Si
+Ajuste del volante hacia adelante y hacia atras Si
+Manija de cambio Cambio de paleta
+Cambio electronico Si
+a
+Pantalla de filtro ordinaria Si
+Aire acondicionado frontal Si
+Control de aire acondicionado Aire acondicionado eléctrico
+Modo de conduccidn del aire acondicionado Eléctrico Puro
+Salida de aire frontal Si
+Salida de aire del asiento trasero Si
+Cortina claraboya Si
+a
+Llave 2 Llaves de control remoto
+Sistema de inicio con un solo boton Si
+Sistema de acceso sin llave Si
+Limpiaparabrisas delantero Limpiador deshuesado
+Palanca del limpiaparabrisas Nivel de limpiaparabrisas ajustable intermitente
+Limpiaparabrisas trasero Si
+Calefactor de luneta trasera Si
+Ajuste eléctrico del espejo retrovisor Si
+Antideslumbrante del espejo retrovisor interior Si
+Ventana eléctrica delantera Si
+Ventana eléctrica trasera Si
+Funcion antipellizco de ventana Si
+Levantamiento/cierre de ventanas con un solo boton Si
+Caja de almacenamiento central Si
+Puerto de montaje del soporte para telefono movil Sj
+del tablero
+Gancho del panel de instrumentos Si
+Interfaz de carga USB de 5V Si
+Fuente de alimentacion de 12V Si
+Faros LED
+Fi /dongfeng.pe
+- Dimensiones
+o- i WN
+rN _. = ~
+, | i. . ~ | [| \ —— — -
+~ — a yO | AS le ALS. \
+7 = Tol AN —S\ 8
+By —_ = 4 1): pee?
+J 1860 aw 715 (NLL
+; ee _ 4570
+La informaci6n mostrada puede variar sin previo aviso. El fabricante se reserva el derecho de modificar sus modelos,
+caracteristicas y accesorios sin previo aviso. Disponibilidad e items de acuerdo con las versiones indicadas. Imagenes
+referenciales. Especificaciones y otros consultar con las red de distribuidores autorizados Dongfeng a nivel nacional
+
+i o~ ~ = 2
+@! aN ™ yo Li y _—
+| AL | T56evV (
+DONGFENG “ —
+a
+VERSION
+a
+lluminacion automatica Si
+Luces diurnas LED Si
+Los faros se apagan con retraso Si
+Altura del faro ajustable Si
+Lampara combinada trasera LED
+Retroiluminacion del boton Si
+Retraso en la extincion de las luces interiores Si
+Lampara del compartimiento delantero Si
+Luces del compartimento lateral Si
+Enciende la iluminacién automatica en el maletero Si
+Lampara de matricula del porton trasero Si
+ee
+Manija de la puerta Si
+Guardabarros inferior motorizado Si
+Llantas de aleacion de aluminio Si
+Protector contra barro de rueda delantera/trasera Si
+Ala de cola Si
+Placa protectora de bajos Si
+Ajuste de la ventana del coche Barra no brillante
+Vidrio lateral frontal Si
+Vidrio lateral trasero Green glass
+Vidrio de la puerta trasera Vidrio verde (con logotipo E-MARK)
+Tira de goma del marco de la puerta Si
+Antena Si
+ee
+Adornos interiores Si
+Panel de instrumentos Si
+Panel de instrumentos auxiliar Si
+Guardia de la puerta Si
+Protector de umbral de puerta Si
+Parasol del conductor Sin espejo cosmeético
+Visera parasol para asiento del pasajero Espejo cosmeético sin lampara
+Alfombra Si
+Cortina parasol para tragaluz Si
+Sistema de inicio con un solo boton Si
+Asa de seguridad en el techo para pasajero y asiento trasero Si
+Gancho para ropa Si
+Tela de la cubierta superior Tela tricotada
+Color del techo Color claro
+Cubierta decorativa para sala de maquinas Si
+Material antibacteriano de proteccion del medio ambiente Si
+a
+Interfaz de fuente de audio externa USB Si
+Soporte de formato de audio Si
+Funcion de radio Si
+Reproduccion de audio Si
+Reproduccion de video Si
+Interconexion de telefonia movil Si
+Funcion WI-FI Si
+Sistema bluetooth Si
+Grupo de instrumentos 10.25-inch LCD
+Altoparlante Marca ordinaria (audio de alta calidad + altavoz)
+Numero de parlantes 4
+Fi /dongfeng.pe
+- Dimensiones
+a,
+nN _. = ~
+| 7 = » f _—_ \ = — -
+. AP rao ) TA f J 2 Z| \
+CD ——__——__ (Y, ‘<= Zz Za, AD \ 2
+ae 7: a (Aaa
+aS o:a. S. eeee: -e
+J 18600. raw 715 NL
+. I __ 4570 mo
+La informaci6n mostrada puede variar sin previo aviso. El fabricante se reserva el derecho de modificar sus modelos,
+caracteristicas y accesorios sin previo aviso. Disponibilidad e items de acuerdo con las versiones indicadas. Imagenes
+referenciales. Especificaciones y otros consultar con las red de distribuidores autorizados Dongfeng a nivel nacional
+
+a: | —~
+T bam _
+iow ~ a es
+(p Ap) TSEv 1
+DONGFENG Va / a4 —- J
+5 EV
+VERSION
+ASIENTOS ee
+Tela del asiento Eco Cuero
+Ajuste manual, 6 posiciones, asiento arriba y abajo, Sj / Piloto
+adelante y atras, respaldo adelante y atras
+Reposacabezas del asiento ajustable Si / Piloto - Copiloto
+Ajuste manual, en 4 direcciones, delante y detras del . .
+asiento y respaldo Si / Copiloto
+Bolsa de almacenamiento en el respaldo del asiento Si / Piloto
+Fi /dongfeng.pe
+Blanco
+~ | Dimensiones
+>
+i ~~ a a
+- | | _——~—_ = pe “iy ree .
++\ - —-4 — | UP Ate — \
+iNo= : _ ce ‘ SN VE es ee ga>) i... =
+= eager a z@: (aw
+| waa ) degen
+J 160 — a5 Nah
+. 7 . . __ 4570 ;
+La informaci6n mostrada puede variar sin previo aviso. El fabricante se reserva el derecho de modificar sus modelos,
+caracteristicas y accesorios sin previo aviso. Disponibilidad e items de acuerdo con las versiones indicadas. Imagenes
+referenciales. Especificaciones y otros consultar con las red de distribuidores autorizados Dongfeng a nivel nacional
