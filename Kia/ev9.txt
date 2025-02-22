@@ -1,0 +1,127 @@
+| j vol N _— [ ee
+Mi “-"F= Eve
+=e
+j | | as |
+4
+oe
+|—————— VERSIONES ——_
+GARANTIA 8 afios o 160,000 Kilémetros (Lo que ocurra primero)
+MANTENIMIENTOS INCLUIDOS Hasta 2 afos 0 30,000 kms
+Tipo de motor Motor Sincrono de Iman Permanente
+Potencia combinada 378 HP
+Torque combinado 71.4 Kg.M
+Traccién AWD
+Potencia Motor Delantero 189 HP @ 4,000 ~ 7,800 rpm
+Torque Motor Delantero 35.7 Kg.M @ 0 ~ 3,800 rpm
+Potencia Motor Posterior 189 HP @ 4,000 ~ 7,800 rpm
+Torque Motor Posterior 35.7 Kg.M @ 0 ~ 3,800 rom
+Aceleracién 0 -> 100 Km/h 5.35
+Tipo de bateria Polimero ion-litio
+Voltaje 552V
+Amperaje 180.9 Ah
+Capacidad de la Bateria 99.8 kWh
+Potencia 318 kW 3
+Tipos de conectores admisibles Tipo 2 (Mennekes) Y CCS 2 E
+Tiempo de carga normal AC con cargador portatil (10 ~ 100%) 42h 35 min s
+Tiempo de carga normal en estaciones AC 11kW (10 ~ 100%) 9h 30 min ~
+Tiempo de carga rapida en estaciones DC 50kW (10 ~ 80%) 83 min E
+Tiempo de carga rdpida en estaciones DC 350kW (10 ~ 80%) 24 min E
+Rango de autonomia (WLTP) 505 Km S
+Peso 567 kg E
+Largo (mm) 5,015
+Ancho (mm) 1,980 3
+Alto (mm) 1780 :
+Distancia Entre Ejes (mm) 3,100 &
+Despeje del piso (mm) 177 5
+Cantidad de Asientos 7 8
+Capacidad de maletera Min - Max (Litros) 312 - 2,318 3
+Capacidad de compartimiento delantero (Litros) 52 5
+Kit de Movilidad Temporal (TMK) v 3
+Neumaticos 285/45R21 §
+Peso Bruto (Kg) 3,240 :
+Suspensi6n Delantera Tipo McPherson con resorte delantero v 8
+Suspension Posterior Tipo Multi-Link v 5
+Frenos Delanteros Disco Ventilados 19” v =
+Frenos Posteriores Disco Sdlidos 18” v E
+Direccidn Electrénicamente Asistida (MDPS) v :
+Aros de Aleacién 21" 8
+Desempanador de Vidrio Posterior v 7
+Espejos laterales abatibles eléctricamente con Luces Direccionales v a3
+Faros Delanteros LED v : 5
+Luces Diurnas LED “Star-Map” v E s
+Parrilla Digital con Luces Integradas v £ 5
+Faros posteriores LED v g é
+Maletero Inteligente con Apertura Eléctrica (Smart Power Tailgate) v E :
+Manijas exteriores retractiles automaticamente v F :
+Sunroof Dual v g 8 2
+Rieles en el Techo v g E 5
+Tercera luz de freno LED v : 2 :
+Alzavidrios Eléctricos c/Sistema Auto Up/Down & Antiatrapamiento para las (04) ventanas v 3 af >
+Apoyabrazos central con posavasos en 2da fila de asientos v g : E 8
+Apoyacabezas regulables en altura en las 3 Filas de Asientos v Sg 2 2
+Asiento de Piloto con Memoria v oes S
+Asientos con Tapiz de Cuero Artificial v 2 é og
+Asientos Delanteros Elécricos con Soporte Lumbar v é 8 Bs
+Asientos Delanteros y Posteriores Ventilados v F i 3 :
+Asientos Delanteros y Posteriores Calefactables v a : E S
+Cargador inalambrico de smartphone v £3 :
+Asientos de la 2da Fila Abatibles 60/40 v 5 g g §
+Asientos de la 3ra Fila Abatibles 50/50 v
+Head-Up Display (HUD) - Proyeccién en parabrisas v
+Cargador inalambrico de smartphone v x
+Cierre Centralizado para Piloto v S
+Aire Acondicionado Climatizador en pantalla LCD de 5.3” con Ductos de Ventilaci6n para 2da Fila v
+Climatizador independiente en 2da Fila de asientos v
+Cobertor Corredizo de Carga v
+Consola Central Delantera con Apoyabrazos y Posavasos v
+Control de Velocidad Crucero Inteligente v
+Controles de audio en el volante + Bluetooth con reconocimiento de voz v
+Tomacorriente de 120V ~ 230V debajo de los asientos posteriores v
+Espejo Retrovisor Electro Cromatico anti destellos v
+Freno de mano electrénico (EPB) + Funcién Auto-Hold v
+Luz LED de Mapa, Saldén (2), Maletera y Compartimiento Delantero v
+Modos de Manejo: Comfort, Sport y Eco v
+Paddle Shifters con Funcién de Freno Regenerativo con Funcién “i-PEDAL” v
+Panel de instrumentos - Supervision Cluster TFT LCD 12.3”
+Pedales de Aluminio v
+Radio Touch Screen c/ conexi6n USB + Apple Car Play & Android Auto 12.3”
+Sistema de encendido con botén / Smart-Key e Inmovilizador v
+Sistema de luces ambientales v
+Tapasoles con Espejo de Vanidad e Iluminacién v
+Tim6n Calefactable v
+Tim6n forrado en Cuero Artificial v
+Tim6n regulable eléctricamente en altura y profundidad v
+Pedales de Aluminio v
+Toma de corriente 12 V para pasajeros delanteros v
+Transmisi6n con Control Electrénico (Shift by Wire) v
+Alerta de pasajeros en asientos posteriores - ROA (Rear Occupant Alert) v
+Asistencia de luces altas - HBA (High Beam Assist) v
+Asistencia de Mantenimiento de Carril - LKA (Lane Keeping Assist) v
+Asistencia de prevencién de Colisi6n con Trafico Cruzado Trasero - RCCA (Rear Cross Traffic Collision Avoidance Assist) v
+Asistencia de prevencion de Colisién en el Punto Ciego - BCA (Blind Spot Collision Avoidance Assist) v
+Asistencia de prevencion de Colisién Frontal - FCA (Forward Collision Avoidance Assist) v
+Asistencia de salida segura - SEA (Safe Exit Assist) v
+Asistencia de Seguimiento de Carril - LFA (Lane Following Assist) v
+Aviso de Atencion del Conductor - DAW (Driver Attention Warning) v
+Barra de Acero en Puertas Laterales v
+Carroceria de deformacién programada / Chasis reforzado / Columna de Direccién colapsable v
+Cinturones de Seguridad Frontales con Regulador de Altura v
+Doble Airbag Frontal (Piloto y Copiloto) v
+Airbags Laterales y de Cortina v
+Aribag de Rodilla para Piloto v
+Airbag Central en Asientos Delanteros v
+ESC - Control Electronico de Estabilidad v
+HAC - (Hill Ascent Control) Sistema de Asistencia en Pendientes v
+Limitador de Velocidad v
+Monitor de Punto Ciego en Panel de Instrumentos Supervision Cluster v
+Seguro para Nifos en Puertas Posteriores Eléctrico v
+Sensor de Lluvia v
+Sensores de Estacionamiento Delanteros, Posteriores y Laterales v
+Sistema de Anclaje para Silla de Nifios - ISOFIX v
+MCB (Multi Colission Brake) - Asistente de Frenado Post Colision v
+Sistema de Frenos ABS + EBD v
+Sistema de Monitoreo 360° - Surround View Monitor v
+Sistema de encendido de luces automatico v
+Sistema de Monitoreo de Presién en Neumaticos v
+FSC DOW7YBZ7ZHH291
+a
