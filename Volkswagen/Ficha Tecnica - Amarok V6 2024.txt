@@ -1,0 +1,264 @@
+: a —_ A ' = — Bao | P , 4 ;
+- ~ sy “sh ‘je °  : Fee
+_ — _ _ _ a : co _ og ’ oy aA ~~
+: — we ONS ok NER FF
+VA| « ba \ ree ‘i oe AN Ss nee _
+ae =\\ eae
+. ~ -_ _ _—_— ; pa —s ie , *.
+x OS ~~. Se. en. _ a _ ‘
+— en \ ey Cre On rn ,ovo4 , ee
+~ pp Uae Ge
+a 7 po ;
+™ ; “ . ‘ f 4 asi .qise L rn
+“Imagen referencial Ano Modelo 2024
+Tipo de motor/ Cilindrada (cm3) / N° valvulas
+Yeon 3.0 V6 TDI con funcidn "Boost" / 3.0 (2967) / 24
+Bi Alimentacion
+mS Inyeccion directa Common-Rail, turbocompresor e intercooler
+ome . Distribucion
+Es pec ifi Cac | Oo Nn es Doble arbol de levas en la culata accionadas por cadena
+yA e
+Tecnicas
+Potencia kW (CV) / rom
+190 (258) / 3250 a 4500
+Par maximo Nm (Kgf.m) / rpm
+> 580 (59.1) / 1400 a 3000
+Imagenes referenciales. Equipamiento varia seguin version del vehiculo.
+
+Cilindrada litros (cm3) / N° valvulas 3.0 (2967) / 24 3.0 (2967) / 24 3.0 (2967) / 24
+Tipo de motor 3.0 V6 TDI con funcion "Boost", 4 valvulas por cilindro 3.0 V6 TDI con funcidn "Boost" 4 valvullas por cilindro 3.0 V6 TDI con funci6n "Boost", 4 valvulas por cilindro
+con doble arbol de levas en la culata accionados por cadena con doble arbol de levas en la culata accionados por cadena con doble arbol de levas en {a culata accionados por cadena
+
+Alimentacion Inyecci6n directa Common-Rail, turbocompresor e intercooler Inyeccién directa Common-Rail, turbocompresor e intercooler Inyecci6n directa Common-Rail, turbocompresor e intercooler
+
+Sistema de escape Filtro de particulas diesel (DPF) Filtro de particulas diesel (DPF) Filtro de particulas diesel (DPF)
+
+Relacion de compresion 17:1 17:1 Ww
+
+Potencia maxima KW (CV) / rpm 190 (258) / 3250 a 4500 190 (258) / 3250 a 4500 190 (258) / 3250 a 4500
+
+Torque maximo Nm (kgf.m) / rpm 580 (59.1) / 1400 a 3000 580 (59.1) / 1400 a 3000 580 (59.1) / 1400 a 3000
+
+Combustible Diesel Diesel Diesel
+
+Transmisién Automatica Tiptronic de 8 velocidades para tracci6n total Automatica Tiptronic de 8 velocidades para traccion total Automatica Tiptronic de 8 velocidades para traccion total
+
+Relaciones Diferencial: 3.7 Diferencial: 3.7 Diferencial: 3.7
+
+Tipo de traccion 4Motion (4X4) permanente tipo Torsen 4Motian (4X4) permanente tipo Torsen 4Motion (4X4) permanente tipo Torsen
+
+Frenos delanteros Discos ventilados Discos ventilados Discos ventilados
+
+Frenos posteriores Discos ventilados Discos ventilados Discos ventilados
+
+Direccion asistida Sistema de pifién y cremailera con asistencia hidraulica Sistema de pifién y cremallera con asistencia hidraulica Sistema de pifién y cremallera con asistencia hidraulica
+
+Suspensién delantera Independiente tipo McPherson (resortes helicoidales y amortiguadores Independiente tipo McPherson (resortes helicoidales y amortiguadotastependiente tipo McPherson (resortes helicoidales y amortiguadores
+
+hidraulicos| con doble brazo oscilante y barra estabilizadora hidréulicos} con doble brazo oscilante y barra estabilizadora hidraulicos} con doble brazo oscilante y barra estabilizadora
+
+Suspensi6n posterior Eje rigido, muelles semi-elipticos de 5 hojas y amortiguadores hidraulicos — Eje rigido, muelles semi-elipticos de 3 hojas y amortiguadores hidraulkgasigido, muelles semi-elipticos de 3 hojas y amortiguadores hidraulicos
+
+Aros de aleacion 17" / Nelimaticos 245/65 R17 S - -
+
+Aros de aleacién 19” / Neumaticos 255/55 R19 - s -
+
+Aros de aleacion 20" / Nedmaticos 255/50 R20 - - s
+
+Neumiatico de repuesto con aro De acero De aleacion De aleacion
+
+Peso bruto (Kg} 3080 2920 2920
+
+Peso neto (Kg) 2132 2138 2138
+
+Capacidad carga util (Kg) 948 782 782
+
+Peso maximo de remolque con freno (Kg) 3300 3500 3500
+
+Largo / ancho / altura (mm) 5254/1954/ 1834 5254/ 1954/1834 5254/1954 / 1834
+
+Distancia entre ejes (mm) 3097 3097 3097
+
+Radio de giro (m) 6.48 6.48 6.48
+
+Despeje al suelo (mm) 215 220 220
+
+Capacidad tanque de combustible (Its / gls) 80/21.1 80/211 80/ 21.1
+
+Largo (mm) 1555 1555 1555
+
+Ancho entre pasa ruedas minimo / maximo (mm} 1222 / 1620 1222/1620 1222/1620
+
+Profundidad (mm) 508 508 508
+
+Superficie (m2) 2.52 2.52 2.52
+
+Sistema de frenos antibloqueo ABS con funcién Off-Road $ s s
+
+Distribucién electronica de la fuerza de frenado (EBD} S S Ss
+
+Asistente hidraulico de frenado de emergencia (HBA) s S s
+
+Regulacién antideslizamiento de la traccién (ASR} Ss Ss Ss
+
+Bloqueo electrénico del diferencial (EDL) S s $
+
+Control electronico de estabilidad (ESC) S S S
+
+Control de asistencia para arranques en pendientes (HHC) S s $
+
+Asistente para descenso en pendientes (HDC} Ss Ss S
+
+Sistema de frenado automatico past-colisién S s $s
+
+Airbag frontal para el conductor S Ss S
+
+Airbag frontal para el acompafiante con desactivacion s $ s
+
+Airbag lateral delante para conductor y acompafiante con proteccién de cabeza y torax S S S
+
+Alarma antirrobo con vigilancia de cabina s S S
+
+Anclajes ISOFIX y TOP TETHER para asientos de nifos S S S
+
+Cinturones de seguridad delanteros de 3 puntos con pretensor s S s
+
+Cinturones de seguridad inerciales posteriores de 3 puntos S S Ss
+
+Indicador de cinturones desabrochados, piloto y copiloto s s s
+
+Apoyacabezas delanteros regulables en altura S S s
+
+3 Apoyacabezas posteriores s s S
+
+Inmovilizador electrénico del motor Ss Ss s
+
+Asientos delanteros con apoyo [umbar "ergoComfort" de 12 posiciones regulables Ss S
+
+eléctricamente y 2 posiciones regulables manualmente .
+
+Asientos delanteros calefactables - s Ss
+
+Sistema de Infotenimiento Touch screen de 6.3" con amplificacion digital de la voz y reproductor de CD, MP3, Ss S s
+
+AUX-IN, puerto USB, bluetooth, ranura SD card.
+
+6 altavoces s s S
+
+Sistema de conectividad App-Connect (Apple Car Play y Android Auto} Ss $ s
+
+Bluetooth con funcién de llamada multiconferencia (segun caracteristica del teléfono} s s S
+
+Aire acondicionado "Climatronic bizonal" con filtro de alérgenos - $ s
+
+Aire acondicionado "Climatic" s - ~
+
+Cierre centralizado con mando a distancia Ss $ Ss
+
+Apertura y cierre de elevalunas con mando a distancia s s S
+
+Camara de retroceso "Rear View" - $ s
+
+Sensores de estacionamiento delanteros y posteriores “Park Pilot” s Ss S
+
+Elevalunas eléctricas con funcién "One Touch" y sistema antiaplastamiento S s s
+
+Control de audio y de computador de a bordo en el volante S con Paddle Shift con Paddle Shift
+
+Control de voz S $s s
+
+Control de velocidad crucero s s S
+
+Limpiaparabrisas con intermitente regulable con sensor de Iluvia s s $
+
+Display multifuncional Plus en 3D en 3D
+
+Blocaje del diferencial posterior s § S
+
+Indicador de la presion de los neumaticos ~ s S
+
+2 Ilaves plegables con mando a distancia s s $
+
+Tapiz de asientos en tela, diseno “Kemisu" en cuero “Vienna” en cuero “Napa”
+
+Asientos delanteros regulables en altura y profundidad S - -
+
+Asiento posterior rebatible (banqueta y respaldar) Ss S S
+
+Palanca de freno de mano y pomo de palanca de cambios, revestidos en cuero s S s
+
+Volante revestido en cuero Ss s S
+
+Columna de direccién regulable en altura y profundidad Ss S s
+
+Consola central con portaobjetos y portavasos con tapa S Ss s
+
+Espejo retrovisor interior con antidestello automatico Ss S s
+
+Tomas de 12V en cabina 1 3 3
+
+Toma de 12V en tolva - 1 1
+
+Tapasoles con espejo s s s
+
+Lampara de iluminacién en cabina delante y detras - S s
+
+Revestimiento interior del techo en versién confort: Negro - s s
+
+Alfombrillas - - s
+
+Piso de alfombra s s s
+
+Faros Bi-xenon con luz diurna en tecnologia LED - s s
+
+Faros principales halégenos bifocales con luz de conduccién diurna s > -
+
+Regulacién de alcance de luces de los faros principales s S $s
+
+Activacién automatica de faros principales con funcién “Coming (manual) & Leaving Home (automatica)” s s S
+
+Faros antiniebla delanteros S con luz de curva estatica con luz de curva estatica
+
+Faro antiniebla posterior (1} s s S
+
+lluminacién de la placa LED - s s
+
+Tercera luz de freno en tecnologia LED s s Ss
+
+lluminacion en la zona de carga s S$ s
+
+Faros posteriores oscurecidos - s Ss
+
+Parrilla delantera con apliques cromados s $ s
+
+Espejos retrovisores retractiles eléctricamente - con aplique cromado con aplique cromado
+
+Carcasa de retrovisores exteriores en color de la carroceria Negro Cromado Cromado
+
+Parachoques posterior con peldafio s s S
+
+Parachoques delantero color de la carroceria - Opcional -
+
+Estribos laterales - Opcional -
+
+Barras antivuelco - - s
+
+Sports Bar : > S
+
+Parabrisas, lunas laterales y luneta posterior antitérmica S S Ss
+
+Manijas de puertas del color de la carroceria s s S
+
+Escarpines de proteccién delanteros y posteriores Ss Ss Ss
+
+4 argollas rigidas para sujecion de cargas en tolva s s S
+
+Patin protector de carter y bajos del motor, cerrada s s Ss
+
+Preparacién para dispositivo de remolque s s S
+
+Insonorizaci6n frente a ruidos del exterior § Ss Ss
+"Consulte con su concesionario y/o solicite una prueba de manejo y de producto para apreciar los alcances, funcionalidades, restricciones, limitaciones y condiciones de los controles, sistemas, componentes, accesorios y equipamiento en general. El vehiculo podria presentar
+botones, interruptores y/o indicativos de funciones o sistemas no instalados ni activos, los cuales no se ofrecen. No todo el equipamiento, especificaciones, caracteristicas y prestaciones detalladas en el Manual del Propietario estan disponibles en la versién del modelo de
+vehiculo que se adquiera, y no se ofrece, dado que, para el Peru, no todas las especificaciones estan disponibles y varian. Las imagenes son referenciales. Los detalles, caracteristicas y equipamiento de esta ficha técnica podrian variar sin previo aviso, y/o estar sujetas a
+restricciones y limitaciones segun versién del modelo "
