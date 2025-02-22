@@ -1,0 +1,137 @@
+| ; oN ~~
+! Ss
+, | | _ ' SUZUKI
+|
+| )
+| i oe i
+a 4
+| re. BIR par ee
+* a 2 er oS i. | pee
+: [ | oo ‘= '? . t af m ~ RN
+| : + mij 4 | { q Pj ‘! be 7 4 , ee +4
+eo | hed a Me \ . F ., <4 3
+= = 2 ie tg A |. Sa
+Ee Ee Vig mn ; ‘ ' > | ee ae
+ _\ aS ue
+| > Mid . “a
+—— — | ye
+— SS Oh/™ ee ee he:
+- . s | - ~ — — 5 mas _ ae
+) = \_ $ / ‘ )
+wo ts \ a
+ayy a \ a BALENO e
+—_ yr © nee
+a —- =»
+
+pmopelos a
+DIMENSIONES
+Longitud total (mm) 3,990
+Ancho total (mm) 1,745
+Altura total (mm) 1,500
+Distancia entre ejes (mm) 2,520
+Trocha delantera (mm) 1,505
+Trocha trasera (mm) 1,510
+Despeje libre al piso (mm) 150
+Radio minimo de giro (mt) 5.1
+Peso neto del vehiculo (kg) 955 965
+Peso bruto del vehiculo (kg) 1,430
+MOTOR
+N° de valvulas 16 con VVT
+N° de cilindros 4
+Cilindrada (cc) 1,462
+Potencia maxima (hp (kW)) 103 (77) @ 6.000 rpm
+Torque maximo (Nm) 138 @ 4.200 rpm
+Diametro x Carrera (mm) 74x85
+¥ Relacion de Compresion 10.5:1
+g Inyeccion de Combustible Inyeccién Multipunto
+g TRANSMISION
+3 Relacién de engranajes: 5MT 4AT
+8 18 3.545 2.875
+a 24 1.905 1.568
+é 34 1.233 1.000
+2 4a 0.886 0.697
+g 5a 0.690 -
+2 Reversa 3.250 2.300
+2 Relacion final de engranajes 4.353 4.145
+§ Tracci6n Delantera
+we = -
+E DIRECCION / SUSPENSION
+5 Direccién Pifién y cremallera asistida eléctricamente
+@ Suspension delantera Independiente McPherson
+ao) Suspensién trasera Barra de torsién con resortes
+g Aros de aleacién 16" S
+3 Neumaticos 195/55R16
+y Neumiatico de repuesto T135/70R15
+7
+8 SEGURIDAD
+£ Frenos Delanteros Disco ventilado
+~ Frenos Traseros Tambor
+g ABS S
+3 EBD S
+2 BAS s
+3 ESP Ss
+= Sistema de ayuda en pendiente Ss
+2 Doble airbag frontal S
+3. Cinturones delanteros de tres puntos con pretensores y limitador de esfuerzo (x2) S
+ne] Cinturones de seguridad traseros de tres puntos (x3) S
+g Anclaje ISOFIX (x2) S
+= Seguro para nifos en puertas traseras Ss
+gS Barras de proteccién en las puertas Ss
+2 Columna de direccidn colapsable S
+é Alarma de Seguridad Ss
+5 Inmobilizador antirrobo s
+¥ Alarma de luces encendidas S
+€ Alarma de llave puesta S
+g Luz de puerta abierta S
+& Alarma y luz de cinturén de seguridad Ss
+Lisl
+g INTERIOR |
+4 Volante forrado en cuero S
+Fe Volante regulable en altura Ss
+° Control de Audio en el Volante S
+§ Control de velocidad de crucero Ss
+8 Control de manos libres Ss
+® Palanca de cambios con acento cromado s .
+xe) . ee . . S
+= palanca de cambios con revestimiento satinado
+i Pantalla de informacién (Reloj digital, temperatura externa, consumo, etc.) S
+§ Tacémetro S
+3g Aire Acondicionado Automatico s
+pS) Calefaccién S
+& Cierre centralizado S
+] Cierre centralizado con mando a distancia S
+z Espejo retrovisor Dia/Noche (Manual) S
+8 Luz de mapa delantera S
+& Luz central interior de tres posiciones s
+s Apoya cabeza ajustable en altura s
+£ Bolsillo en respaldo de asiento copiloto S
+g Apoyabrazo en consola central s
+ro Asientos traseros abatibles 60:40 S
+2g Tapiz de puertas con inserto de tela delantero y trasero Ss
+oy Desempajniador de luna trasera Ss
+S Equipo multimedia (pantalla tactil 6.75", Bluetooth, puertos USB y Aux) S
+g Sistema de 4 Parlantes Ss
+oa Salida de 12V Consola delantera S
+5 Puerto USB + Entrada AUX iS
+g Cargador USB trasero (x2) S
+S Apertura de tapa gasolina desde el interior S
+£ Bolsillo porta objeto puerta delantera (x2) S
+2 Porta vasos (x2) S
+g Porta Botellas (x4) S
+fis]
+5 EXTERIOR |
+ir Faros delanteros con multireflector halogeno Ss
+Rugulacion manual de altura de luces Ss
+Neblineros Delanteros Ss
+Espejos exteriores color carroceria s
+Espejos exteriores con regulacién eléctrica S
+Espejos exteriores con plegado eléctrico Ss
+Espejos exteriores con luz direccional Ss
+Mascara Negra con Acento Cromado Ss
+Manillas exteriores color carroceria Ss
+CAPACIDADES |
+Pasajeros 5
+Depésito de combustible (Its) 37
+Capacidad de maletera 2° fila levantada método VDA (ts) 314
+Capacidad de maletera 2° fila abatida método VDA (Its) 646
+SIGUENOS EN: 3 @SuzukiPeruAutos ©) suzukiperuautosoficial ww www.suzuki.com.pe 7 13 5000 “7 DERcOcenter
