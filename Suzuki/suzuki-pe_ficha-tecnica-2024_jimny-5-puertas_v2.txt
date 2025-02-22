@@ -1,0 +1,170 @@
+i ‘ _
+4 i | N
+«|
+° :
+# . : i : 7 - :
+. > vr
+a
+t. 2
+i
+= P 1 - = iy . .
+in - a —_ ‘
+| ¥ . .
+a
+—) ™ e . ‘ ra _ a — “os
+SY Rn — ele emaens
+, . _ ae
+I
+s ; | _ = —_
+, . As L =
+~ } — = : fy .
+—_ fj .
+* - = :
+_ . = i
+— ha if te
+7 a 7 * . 7 . as i col . ; wo : = . . _ a i q F a
+=. g sy i . ” So, : : 5
+a om ¥ OWA ee | . | ly |
+zk ea -. ae i —_ — ~ _ _ ; bee by _ .
+ee J ft a t. .
+) a — i ; | j SRO | 7
+a ree = *F . *s - i f
+Se ee aoe a at 3
+Eee, Ee; Ra f. . a a . .
+eo” rE i 3 : gs’ j i a
+— © = Pe; bi . " = 7 : ‘ t. , 7 Wr 7 ni,
+=:  sinmeay San ~ sy ae
+Taphefteems Ember tas F : Py: ee Lame “Ts
+Seno th al ; . Be: 4 we - . ——
+Spas. ; - aa * c
+meet vere er : io | Rite ; 4 fl Pal
+re es ! = fi ——— ! a a
+ees ee oe ite if | THLE
+~ ee = " ff Vie
+er \ : Pas, ee oe ;
+ere Se a Sa i or | oo ae 1 tg al sir.
+ga a ae a es ae FS ee oe f. f - “oo. — ee ‘ag ee es wi
+oa See 8, de aE anes ee 7 2 yom Ez ° cee re Cs let re
+a “— & a ‘ . eee ae eee aie
+ae a ane ae OC Jae
+me ae | abe te va . : . 3: . ee ee
+ror a Sey We My é, i a Pe a. OM ‘ ow we
+“os soot a wt - eat 4 on “a , fan ae ify wd d . . ; ” ais —— ie. ~ t-. ae Sloat = oa o
+on, . : a ye +" aon a | oo “art itty” var f. eed ams . got - . _ 0 ' ae a “ye _ iu <a ee a ne .
+wa aa ST Fs pods fe 2fellee ating ta Pn a “eyten®
+= ae sal . oy . coe ys Payee oo TN Mpg es fa At a gt “ a 2 er Te to so ag Prk oe, } =" ee i‘. 7 al ae
+we a. - a het) # le wa . aad a r Py ee ao . ie a. P A 7 ai he ewe: af 7" a be | al ag ” all ih id 5s os aa 3 e
+™= ty el ie " . Tr ey star cm A aS bet a “ft. ee an aqa i od ah Tay ee ae wl ® we! ‘ Sd me OY ee
+were TAS : oa hols Te tyr ad ra ale he _ a s, * rif ee se ale ’ . ee are
+- th ts ; ‘s os rer cr Poe Oe eR ERE, Sy Wy hat roc rae Pc a Pe fof ah =, “Sa = a
+ae aye: - ’ . my 7 eat “i *y. t way ete 7 pty rl ata th = a oH a on 2 i om a on ” 1 7 : ae 7 “ea -— 23 _
+At: ' ho 4 Wo aS arti, hi lh! gue eb en et gt i rr ons oe Ta . ie an 3s
+a. hf pa . Lae aoe eo a chk ee Pate ele oe uy i: ed i) ae : t a id : ete eee a
+As i 7 : , : an . co eae oo ae enT 1d eT & pees nape oe tay - Jt te . ~~ te af
+a a 7h . oe Tat “y an La eu Le Sa apa Set ? M . ns AE ar. . ee" 7%
+Sa PEE TEED ck a nS ale ers
+oa x ms ” = alk . . 7 oa g vey te a oe . : 1 ge : 5 an a . . a
+ae Si - ~~: : . 2 sila (cee ee rae tat, toa mo
+car iH weet mee Re : re . a ie tae “ q wrog Dek Ps ee : - -.
+= L “i ; Po, 5 aia: i en ae Tes T, _ wh " har ol a _@ 4
+eu x ; i. AN _: : . . : : a ene e . yy os " - “il o> bes ‘afi | i a Ay
+“foo 7 A Sa _ " a ee ke a re. Lee as sh j
+Tea -- . ten be a . ad ‘ore oa ee ne hr et 3 - .
+2 SE we TN an big ee EL Se Oy
+OR on ee ye > a ae OF A ee id a) eo ee
+‘* a . 7” ” ae hi ~ _ rl ag : * r '. nT f a i ' , a a a = if ” ™
+, - — ar) ee vege
+
+DIMENSIONES GL MT GL AT GLX AT
+Longitud total de parachoque a parachoque {mm) 3,820
+Longitud total de parachoque a llanta de repuesto (mm) 3,985
+Ancho total (mm) 1,645
+Altura total (mm) 1,720
+Distancia entre ejes (mm) 2,590
+Trocha delantera (mm) 1,395
+Trocha trasera (mm) 1,405
+Despeje de suelo (mm) 210
+Radio minimo de giro (m) 5.7
+Angulo de ataque (grados) 36
+Angulo ventral (grados) 24
+Angulo de salida (grados) 47
+Peso Neto (kg) 1,185 | 1,200 1,215
+Peso bruto (kg) 1,545 Azul Marino
+MOTOR K15B
+N° de valvulas 16
+N° de cilindros 4
+Cilindrada (cc) 1,462
+Potencia maxima 100 hp @ 6000 rpm
+Torque maximo 130 Nm @ 4000 rpm
+Diametro x Carrera mm 74X85
+Relacion de Compresion 10,0:1
+Alimentacion de combustible Inyeccién Multipunto
+Direccién Asistida de bolas recirculantes
+Suspensién delantera Eje rigido de 3 enlances y resortes
+Suspension trasera Eje rigido de 3 enlances y resortes
+TRANSMISION Verde Oscuro
+Tipo 5MT 4 AT
+Relacién de engranajes: 12 4.425 2.875
+24 2.304 1.568
+34 1.674 1.000
+4a 1.190 0.697
+5a 1.000 -
+Reversa 5.151 2.300
+Relacion final de engranajes 4.090 4,300 ;
+Relaci6n de engranajes de transferencia Alta 1.000 1.320
+Relacién de engranajes de transferencia Baja 2.002 2.644
+Sistema de traccién AllGrip Pro
+Caja de transferencia y reductora S
+SEGURIDAD
+Frenos delanteros Discos Ventilados Gris Granito
+Frenos traseros Tambores
+Sistema de frenos ABS + BAS
+ESP (Control electrénico de estabilidad) S
+Asistencia de partida en pendiente S)
+Asistencia de control de descenso S
+Doble Airbag frontal S
+Doble Airbag lateral - | S
+Doble Airbag de cortina - S wa} {i
+Anclaje ISOFIX x2 S “a 5
+Barras de proteccién en las puertas S
+Cinturones de seguridad delanteros de tres puntos con pretensores y limitador d¢ esfuerzo S
+Cinturones de seguridad traseros de tres puntos con limitador de esfuerzo S
+Inmobilizador Antirrobo S
+Camara de Retroceso S Pl
+Alarma Antirrobo S ata
+INTERIOR
+Aire acondicionado manual S) -
+Aire acondicionado automatico - S
+Cierre Centralizado Ss
+Alzavidrios electricos S
+Pantalla LCD multi informacién S ’
+Volante forrado en cuero - S -_ a pa
+Control de velocidad crucero en el volante - S)
+Volante regulable en altura S
+Comando de audio en el volante S
+Control de manos libres en el volante S
+Equipo Multimedia 7" con Apple Car Play y Android Auto NS) | -
+Equipo Multimedia 9” con Apple Car Play y Android Auto - s)
+Entrada USB PP vy S Blanco Perla
+Cuatro parlantes S
+Asientos traseros abatibles 50-50 S
+Tapiz de Tela S
+Toma de 12V x2 S
+EXTERIOR
+Faros multireflector hal6geno S -
+Faros proyector LED - S
+Regulador de altura de faros - S
+Lavador de faro principal - S
+Neblineros $
+Limpia parabrisas delantero 2 velocidades + intermitente + lavado S
+Limpia parabrisas trasero 1 velocidad + lavado S
+Manijas exteriores color carroceria - | ) Negro Perlado
+Aros de aleacion {Incluido repuesto) S
+Neumaticos (Incluido repuesto) 195/80R15
+CAPACIDADES
+Cantidad de asientos 4
+Depdsito de combustible (Its) 40
+Maletera con asientos levantados (Its) 211
+Maletera con asientos abatidos (Its) 332
+SIGUENOS EN: g} @SuzukiPeruAutos ©) suzukiperuautosoficial ro www.suzuki.com.pe 713 5000 TAS DERCO
+Ww’ center
