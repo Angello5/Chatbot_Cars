@@ -1,0 +1,100 @@
+° |
+_ he - S, | |
+— a ross
+VERSIONES
+GARANTIA 7 afios 6 150,000 Kildmetros (lo que ocurra primero).
+Cilindrada / Combustible / Tipo 1,591 cc / Gasolina / MPI
+Potencia 121 HP / 6,300 rpm
+Torque 15.4 @ 4,850 (Kg.M / rpm)
+N° Cilindros 4
+N° de Velocidades / Transmisi6n / Traccién 6 MT / 2WD 6 AT / 2WD 6 MT / 2WD 6 AT / 2WD 6 AT / 2WD
+Largo / Ancho / Alto (mm) 4,295 / 1,765 / 1,495
+Distancia Entre Ejes (mm) 2,670
+Capacidad de Maletera (Litros) 390
+Despeje del piso (mm) 180
+Tanque de Combustible (Litros) 45
+Peso Bruto (Kg) 1,620 1,650 1,620 1,650 1,650
+Neumaticos 205/55R16 205/55R16 205/50R17 205/50R17 205/50R17
+Llanta de Repuesto de Emergencia v v v v v
+Suspension Delantera: McPherson v v v v v
+Suspension Posterior: Eje de Torsién v v v v v
+Frenos delanteros Discos Ventilados 14” v v v v v
+Frenos posteriores Discos Sélidos 14” v v v v v
+Amortiguadores a Gas v v v v v
+Direccién Electrénicamente Asistida (MDPS) v v v v v
+Aros de Aleaci6n 16” v v - - -
+Aros de Aleaci6n 17” - - v v v
+Desempanador de vidrio posterior v v v v v
+Espejos Abatibles Eléctricamente - - v v v
+Espejos con Luces Direccionales - - v v v
+Espejos Eléctricos de color carroceria v v v v v
+Faros Delanteros LED - - - - v
+Faros Neblineros LED - - - - v
+Faros Posteriores LED - - - - v
+Luces Diurnas LED “Star-Map” - - - - v
+Manijas exteriores color carroceria v v v v v
+Rieles en el techo v v v v v
+Parrilla Frontal en Piano Black v v v v v
+Aire Acondicionado Manual v v - - -
+Aire Acondicionado con Climatizador Dual - - v v v
+Ductos posteriores de salida de aire v v v v v
+Asientos Posteriores Abatibles 60/40 v v v v v
+Acabado en Piano Black en Consola Central - - - - v
+Alzavidrios eléctricos con sistema Auto Down para piloto v v v v -
+Alzavidrios eléctricos con sistema Auto Up/Down & Antiatrapamiento para piloto - - - - v
+Bolsillo de conveniencia (revistero) en respaldar del asiento de copiloto v v v v v
+Cargador Inalambrico - - - - v
+Control de cierre centralizado para piloto v v v v v
+Controles de audio en el volante + Bluetooth c/ reconocimiento de voz v v v v v
+Control de velocidad crucero v v v v v
+Compartimiento central delantero con apoyabrazos v v v v v
+Freno de Estacionamiento de Mano v v v v v
+Llave de Contacto Plegable (Folding) con control de mando a distancia v v - - -
+Llave Inteligente (Smart key) con sistema de encendido con botén - - v v v
+Inmovilizador de motor v v v v v
+Luz Ambiental - - - - v
+Luz de Maletera v v v v v
+Luz Interior Central v v v v LED
+Luz Interior Delantera v v v v LED
+Material de asientos Tela Tela Tela Tela Tela con Cuero
+Manijas interiores Color metal Color metal Color metal Color metal Piano Black
+Paddle Shifter - - - - v
+Palanca forrada en Cuero - - v v v
+Panel de instrumenios - Supervision Cluster LCD 4.2” 4.2” 4,2” 4.2” 4.2”
+Parlantes Delanteros, Posteriores y Tweeters v v v v v
+Pedales de Aluminio - - - - v
+Puerto USB tipo "C" de carga rapida en la 2da fila v v v v v
+Radio Touch Screen con conexi6n USB + Apple Car Play & Android Auto Inalambricos 8” 8” 10.25” 10.25” 10.25”
+Regulador manual de altura en asiento de piloto v v v v v <
+Tapasol de Piloto y Copiloto con Espejos de Vanidad e lluminacién v v v v LED &
+Volante forrado en Cuero - - v v v a
+Volante regulable en Altura v v - - -
+Volante regulable en Altura y Profundidad - - v v v
+(06) Airbags: Frontales, Laterales y de Cortina v v v v v
+Asistencia de Luces Largas - HBA (High Beam Assist) - - - - v
+Asistencia de Mantenimiento de Carril - LKA (Lane Keeping Assist) O Oo v v v
+Asistencia de Prevencién de Colisién con Trafico Cruzado Trasero - RCCA (Rear _ _ _ - V
+Cross Traffic Collision Avoidance Assist)
+Asistencia de Prevenci6én de Colisién en el Punto Ciego - BCA (Blind Spot Collision - - - - V
+Avoidance Assist)
+pais de Prevencidn de Colisi6n Frontal - FCA (Forward Collision Avoidance O O V V V
+Asistencia de Salida Segura - SEA (Safe Exit Assist) - - - - v
+Asistencia de Seguimiento de Carril - LFA (Lane Following Assist) O O v v v
+Aviso de Atencién del Conductor - DAW (Driver Attention Warning) O O v v v
+Barra de Acero en Puertas Laterales v v v v v
+Camara de Retroceso v v v v v
+Carroceria de Deformacién Programada y Chasis Reforzado v v v v v
+Columna de Direccién colapsable v v v v v
+Conirol Electrénico de Estabilidad - ESC v v v v v
+Sensores Delanteros y Posteriores - - v v v
+Sistema automatico de encendido de luces v v v v v
+Sistema de anclaje para silla de nifos - ISOFIX v v v v v
+Sistema de Asistencia en Pendientes - HAC v v v v v
+Sistema de frenos ABS + EBD (Antibloqueo de Ruedas) v v v v v
+1CS6D2617EEO16 1CS6D261FEE016 1CS6D2617FFO12 1CS6D261FFFO13 1CS6D261FLLOO6
+FSC - 1CS6D261FEEO47 - - -
+Variante UK1CS6D261725U3J1 UKICS6D261F25U3J5 UK1CS6D261725U3J3_ UK1ICS6D261F25U3J7 UK1CS6D261F25U3J9
+(O) “Sistemas Avanzados de Asistencia a la Conducci6n (siglas en inglés ADAS) aplicable para modelo(s) ALL NEW K3 y/o ALL NEW K3 Cross. Teniendo en cuenta que los vehiculos con ADAS son a pedido, el plazo
+de entrega es de aproximadamente 06 meses, el cual se contabilizara a partir de la cancelacién del precio total del vehiculo. Dicho plazo podra ser ampliado de manera excepcional ante un caso fortuito, de fuerza
+mayor y/o cualquier otro hecho objetivo o circunstancia justificada, lo cual sera comunicado al cliente con anterioridad al vencimiento del plazo mencionado.”
+All-new K3 Cross
