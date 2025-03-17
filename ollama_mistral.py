@@ -1,24 +1,16 @@
-import ollama
+import os
 from langchain_community.document_loaders import UnstructuredPDFLoader
-from langchain_community.embeddings import OllamaEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQA
-from langchain.prompts import ChatPromptTemplate, PromptTemplate
-from langchain_core.output_parsers import StrOutputParser
-from langchain_community.chat_models import ChatOllama
-from langchain_core.runnables import RunnablePassthrough
-from langchain.retrievers.multi_query import MultiQueryRetriever
-from langchain.document_loaders import UnstructuredPDFLoader
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain.prompts import ChatPromptTemplate
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_ollama import ChatOllama
 
-local_path = "/home/pibezx/Documents/Proyectos/PaginaWeb_Automoviles/Chatbot_Cars/Volkswagen/Ficha Tecnica - Amarok V6 2024.pdf"
-
-if local_path:
-    loader = UnstructuredPDFLoader(file_path = local_path)
-    data = loader.load()
-else:
-    print("Sube un pdf")
+local_path = "/home/pibezx/Documents/Proyectos/PaginaWeb_Automoviles/Chatbot_Cars/Toyota/CATALOGO_4RUNNER_PERU_0.pdf"
+loader = UnstructuredPDFLoader(local_path)
+data = loader.load()
 
 data[0].page_content
 
@@ -35,9 +27,7 @@ vectordb = Chroma.from_documents(
     persist_directory=persist_directory
 )
 
-vectordb.persist()
-
-llm = ollama(model="deepseek-r1:8b ")
+llm = ChatOllama(model="deepseek-r1:8b")
 
 prompt_template = """Eres un asistente experto en vehículos. Responde la pregunta usando exclusivamente el contexto proporcionado.
 Contexto:
@@ -47,7 +37,7 @@ Pregunta: {question}
 Respuesta en español:"""
 
 
-prompt = ChatPromptTemplate.from_template(prompt)
+prompt = ChatPromptTemplate.from_template(prompt_template)
 
 # Configurar cadena de RAG (retrieval-augmented generation)
 chain = RetrievalQA.from_chain_type(
@@ -63,7 +53,7 @@ while True:
     if user_prompt.lower() == 'gudbai':
         print("Chau")
         break
-    resultado = chain.run(user_prompt)
+    resultado = chain.invoke(user_prompt)
     print(resultado)
 
 print("CHAUUUUU")
