@@ -8,7 +8,7 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_ollama import ChatOllama
 
-local_path = "/home/pibezx/Documents/Proyectos/PaginaWeb_Automoviles/Chatbot_Cars/Toyota/CATALOGO_4RUNNER_PERU_0.pdf"
+local_path = "/home/pibezx/Documents/Proyectos/PaginaWeb_Automoviles/Chatbot_Cars/Mazda/2022-01-18-ficha-tecnica-all-new-mazda3-sport.pdf"
 loader = UnstructuredPDFLoader(local_path)
 data = loader.load()
 
