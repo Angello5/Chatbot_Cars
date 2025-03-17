@@ -37,7 +37,7 @@ vectordb = Chroma.from_documents(
 
 vectordb.persist()
 
-llm = ollama(model="mistral")
+llm = ollama(model="deepseek-r1:8b ")
 
 prompt_template = """Eres un asistente experto en vehículos. Responde la pregunta usando exclusivamente el contexto proporcionado.
 Contexto:
