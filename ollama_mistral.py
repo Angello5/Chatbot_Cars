@@ -1,6 +1,6 @@
 import os
 from langchain_community.document_loaders import UnstructuredPDFLoader
-from langchain.document_loaders import TextLoader
+from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -46,7 +46,7 @@ prompt = ChatPromptTemplate.from_template(prompt_template)
 chain = RetrievalQA.from_chain_type(
     llm=llm,
     chain_type="stuff",
-    retriever=vectordb.as_retriever(search_kwargs={"k": 3}),
+    retriever=vectordb.as_retriever(search_kwargs={"k": 4}),
     chain_type_kwargs={"prompt": prompt}
 )
 
