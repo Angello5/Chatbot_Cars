@@ -1,1 +1,0 @@
-Error procesando /home/pibezx/Documents/Proyectos/PaginaWeb_Automoviles/Chatbot_Cars/Renault/kwid-e-tech-ft.pdf : Image size (196715714 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.

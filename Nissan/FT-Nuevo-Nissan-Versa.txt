@@ -1,1 +1,0 @@
-Error procesando /home/pibezx/Documents/Proyectos/PaginaWeb_Automoviles/Chatbot_Cars/Nissan/FT-Nuevo-Nissan-Versa.pdf : Image size (595502787 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
