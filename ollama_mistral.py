@@ -9,7 +9,7 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_ollama import ChatOllama
 
-local_path = "/home/pibezx/Documents/Proyectos/PaginaWeb_Automoviles/Chatbot_Cars/Volkswagen/FichaTecnica-Teramont-2024.txt"
+#local_path = "/home/pibezx/Documents/Proyectos/PaginaWeb_Automoviles/Chatbot_Cars/Volkswagen/FichaTecnica-Teramont-2024.txt"
 
 loader = TextLoader(local_path, encoding = "utf-8")
 data = loader.load()
