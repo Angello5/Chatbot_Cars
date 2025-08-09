@@ -7,7 +7,6 @@ while True:
         print("Chau")
         break
 
-
-    response = ollama.generate(model = 'llama3.2-vision', prompt = user_prompt)
+    response = ollama.generate(model = 'deepseek-r1:7b', prompt = user_prompt)
     print(response['response'])
 
